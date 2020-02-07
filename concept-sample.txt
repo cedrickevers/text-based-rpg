@@ -1,0 +1,23 @@
+Concept
+
+mercenaries stuff and tournamement
+
+Features
+
+characeter
+-earn xp from fighting
+-level up at x amount of exp
+Gain health and stats points
+
+
+-Battle System
+
+-Turn based combat against AI utilising weapon or abilities to fighting
+-Money gain from combats
+shops for stuff 
+
+
+
+
+
+
